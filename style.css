@@ -1,0 +1,12 @@
+header,
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+button {
+    width: 190px;
+    
+    /* ### A parte abaixo faz parte do código com um botão para ligar e outro para desligar */
+    /* width: 80px; */
+}
